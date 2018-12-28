@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: sunJsona
+title: sunJsona的个人博客
 subtitle:
 description:
 keywords:
 author: sunJsona
 language: Simple Chinese
 timezone:
+avatar: https://sunchang.oss-cn-beijing.aliyuncs.com/image/17685955%20-%20%E5%89%AF%E6%9C%AC.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://xiaochangzai.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
