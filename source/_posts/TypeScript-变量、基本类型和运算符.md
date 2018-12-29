@@ -1,5 +1,7 @@
 ---
 title: TypeScript-变量、基本类型和运算符
+tags:
+  - javascript
 ---
 基本类型    
 

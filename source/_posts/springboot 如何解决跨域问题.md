@@ -1,5 +1,7 @@
 ---
 title: springboot 如何解决跨域问题
+tags:
+  - java
 ---
 spring boot 如何解决跨域问题？
 在spring config.java 里配置。如下：

@@ -1,5 +1,8 @@
 ---
 title: React.children
+tags:
+  - javascript
+  - react
 ---
 React.children.map
 使用方法：

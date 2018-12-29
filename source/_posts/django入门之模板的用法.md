@@ -1,5 +1,7 @@
 ---
 title: django入门之模板的用法
+tags:
+  python
 tit: '{{title}}'
 var: '{{需要输出的变量}}'
 ---

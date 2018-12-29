@@ -1,5 +1,8 @@
 ---
 title: React 点击事件2
+tags:
+  - javascript
+  - react
 ---
 ##### 1. this.state
 ```

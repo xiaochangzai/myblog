@@ -1,5 +1,8 @@
 ---
 title: 关于FAT32硬盘格式不支持cnpm的解决办法
+tags:
+  - javascript
+  - npm
 ---
 
 最近学习`gulp` ，运行 `cnpm install gulp-less --save -dev` 的时候，报了如下错误：

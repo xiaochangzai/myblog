@@ -1,5 +1,8 @@
 ---
 title: 关于React 路由嵌套方式的其中一种
+tags:
+  - javascript
+  - react
 ---
 现在react router v4 的路由嵌套改成这样子了。和之前的大不一样。
 不过也不是也别麻烦。

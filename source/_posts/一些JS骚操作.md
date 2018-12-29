@@ -1,5 +1,7 @@
 ---
 title: 一些JS骚操作
+tags:
+  - javascript
 ---
 
 ## 一、强制类型转换

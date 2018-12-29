@@ -1,5 +1,8 @@
 ---
 title: React-router config 的用法
+tags:
+  - javascript
+  - react
 ---
 React有好几种路由嵌套的用法。感觉都不好用。终于我找到已一个React Router Config 的方法
 官方例子如下：

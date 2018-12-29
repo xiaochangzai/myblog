@@ -1,5 +1,7 @@
 ---
 title: 判断手机系统是ios 还是Android
+tags:
+  - javascript
 ---
 ## 判断手机系统是ios 还是Android
 ```

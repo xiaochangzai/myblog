@@ -1,5 +1,8 @@
 ---
 title: React 里面如何使用jQuery 和 jQuery 的插件
+tags:
+  - javascript
+  - react
 ---
 如果直接 import $ from './jquery.min' 引入的话，会报错。
 webpack 下使用jQuery ，要先安装。

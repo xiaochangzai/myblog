@@ -1,5 +1,7 @@
 ---
 title: VScode 设置
+tags:
+  - 随笔
 ---
 
 ```

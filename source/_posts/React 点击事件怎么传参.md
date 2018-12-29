@@ -1,5 +1,8 @@
 ---
 title: React 点击事件怎么传参
+tags:
+  - javascript
+  - react
 ---
 
 先看一下代码：

@@ -1,5 +1,7 @@
 ---
 title: git基本命令
+tags:
+  - git
 ---
 
 ## git基本命令

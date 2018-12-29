@@ -1,5 +1,8 @@
 ---
 title: React 路由
+tags:
+  - javascript
+  - react
 ---
 [react-router-dom](http://reacttraining.cn/) 的使用方法
 

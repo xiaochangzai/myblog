@@ -1,5 +1,7 @@
 ---
 title: 用django创建一个项目
+tags:
+  - python
 ---
 首先你得安装好python和django，然后配置好环境变量，安装python就不说了，从配置环境变量开始
 

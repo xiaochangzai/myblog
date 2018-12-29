@@ -1,5 +1,9 @@
 ---
 title: 前端使用 jest 做单元测试
+tags:
+  - javascript
+  - npm
+
 ---
 ### 1. 安装 Jest
 ```

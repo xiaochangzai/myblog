@@ -1,5 +1,8 @@
 ---
 title: only-child 用法 React click事件
+tags:
+  - javascript
+  - react
 ---
 今天遇到了一个需求：
  

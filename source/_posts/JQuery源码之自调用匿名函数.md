@@ -1,5 +1,7 @@
 ---
 title: JQuery源码之自调用匿名函数
+tags:
+  - javascript
 ---
 JQuery的自调用匿名函数如下：
 ```

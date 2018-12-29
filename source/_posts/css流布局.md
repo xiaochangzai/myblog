@@ -1,5 +1,7 @@
 ---
 title: css流布局
+tags:
+  - css
 ---
 css可以利用 ==collumn-count== 属性实现瀑布流流布局
 例子代码如下：

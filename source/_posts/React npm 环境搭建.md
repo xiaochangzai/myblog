@@ -1,5 +1,9 @@
 ---
 title: React npm 环境搭建
+tags:
+  - javascript
+  - react
+  - npm
 ---
 #### 1. 安装淘宝镜像
 ```
